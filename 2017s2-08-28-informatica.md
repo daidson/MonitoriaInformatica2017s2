@@ -33,3 +33,4 @@
 07 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
 10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
 11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
+12 | GABRIEL Francisco De Araujo Melo           | @Gabrieljkuchiha     |
