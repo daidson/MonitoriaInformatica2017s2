@@ -31,5 +31,5 @@
 02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
 03 | Julio Campelo de Moura                     | @juliocampelo        |
 03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
-04 | Rafaella Christe Correa                    | @rafachriste         | 
+05 | Rafaella Christe Correa                    | @rafachriste         | 
 05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
