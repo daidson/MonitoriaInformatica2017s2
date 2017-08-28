@@ -25,3 +25,4 @@
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
 02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
 03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
+04 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
