@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 # Lista de Chamada de Monitoria
-=======
-2-08-28-informatica.mdi
->>>>>>> 061476ed241f344311b73b5ed73535daedd7f17b
 
 * Disciplina: Informática para Controle e Automação
 * Turma: CA
@@ -35,4 +30,6 @@
 05 | Rafaella Christe Correa                    | @rafachriste         | 
 05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
 06 | Leticia Claudia Dias De Souza              | @leehso              |
-09 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
+07 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
+10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
+11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
