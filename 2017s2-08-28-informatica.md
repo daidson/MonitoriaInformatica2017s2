@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 # Lista de Chamada de Monitoria
-=======
-2-08-28-informatica.mdi
->>>>>>> 061476ed241f344311b73b5ed73535daedd7f17b
 
 * Disciplina: Informática para Controle e Automação
 * Turma: CA
