@@ -1,3 +1,4 @@
+
 # Lista de Chamada de Monitoria
 
 * Disciplina: Informática para Controle e Automação
@@ -24,3 +25,4 @@
 ---|--------------------------------------------|----------------------|
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
 02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
+03 | Julio Campelo de Moura                     | @juliocampelo        |
