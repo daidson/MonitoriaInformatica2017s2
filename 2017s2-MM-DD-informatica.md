@@ -14,7 +14,7 @@
 
  N | Nome Completo do Monitor                   | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
-01 |                                            |                      |
+01 | Daidson Fonseca Alves                      | @daidson             |
 02 |                                            |                      |
 
 
