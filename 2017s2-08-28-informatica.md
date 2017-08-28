@@ -23,5 +23,5 @@
  N | Nome Completo do Aluno                     | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
-02 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
-
+02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
+03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
