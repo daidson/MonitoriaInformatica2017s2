@@ -32,4 +32,6 @@
 03 | Julio Campelo de Moura                     | @juliocampelo        |
 03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
 04 | Rafaella Christe Correa                    | @rafachriste         | 
-05 | Leticia Claudia Dias De Souza              | @leehso              |
+05 | Rafaella Christe Correa                    | @rafachriste         | 
+05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
+06 | Leticia Claudia Dias De Souza              | @leehso              |
