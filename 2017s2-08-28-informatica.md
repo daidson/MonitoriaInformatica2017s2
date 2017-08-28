@@ -35,3 +35,4 @@
 05 | Rafaella Christe Correa                    | @rafachriste         | 
 05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
 06 | Leticia Claudia Dias De Souza              | @leehso              |
+09 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
