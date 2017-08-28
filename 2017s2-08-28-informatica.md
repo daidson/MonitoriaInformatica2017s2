@@ -1,4 +1,4 @@
-# Lista de Chamada de Monitoria
+2-08-28-informatica.mdi
 
 * Disciplina: Informática para Controle e Automação
 * Turma: CA
@@ -23,5 +23,5 @@
  N | Nome Completo do Aluno                     | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
-02 |                                            |                      |
+02 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
 
