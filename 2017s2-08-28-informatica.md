@@ -23,5 +23,4 @@
  N | Nome Completo do Aluno                     | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
-02 |                                            |                      |
-
+02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
