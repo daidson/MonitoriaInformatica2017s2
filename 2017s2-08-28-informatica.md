@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+
 # Lista de Chamada de Monitoria
+=======
+2-08-28-informatica.mdi
+>>>>>>> 061476ed241f344311b73b5ed73535daedd7f17b
 
 * Disciplina: Informática para Controle e Automação
 * Turma: CA
@@ -23,4 +28,9 @@
  N | Nome Completo do Aluno                     | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
-02 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
+02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
+03 | Julio Campelo de Moura                     | @juliocampelo        |
+03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
+05 | Rafaella Christe Correa                    | @rafachriste         | 
+05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
+06 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
