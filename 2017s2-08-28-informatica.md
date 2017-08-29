@@ -35,3 +35,4 @@
 12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
 13 | Stefane Coligny Lins Silva                 | @stecoligny          |
 14 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
+15 | Joao Vitor De Oliveira Silva               | @Mechanichs          |
