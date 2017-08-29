@@ -34,3 +34,4 @@
 10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
 11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
 12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
+13 | Stefane Coligny Lins Silva                 | @stecoligny          |
