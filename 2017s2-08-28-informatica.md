@@ -22,6 +22,17 @@
 
  N | Nome Completo do Aluno                     | Usuário GitHub       |
 ---|--------------------------------------------|----------------------|
-01 |Carlos Roberto Cavalcanti De Lima Neto      |                      |
-02 |                                            |                      |
-
+01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
+02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
+03 | Julio Campelo de Moura                     | @juliocampelo        |
+03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
+04 | Rafaella Christe Correa                    | @rafachriste         |  
+05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
+06 | Leticia Claudia Dias De Souza              | @leehso              |
+07 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
+10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
+11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
+12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
+13 | Stefane Coligny Lins Silva                 | @stecoligny          |
+14 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
+15 | Joao Vitor De Oliveira Silva               | @Mechanichs          |
