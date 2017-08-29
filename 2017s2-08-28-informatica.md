@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 # Lista de Chamada de Monitoria
-=======
-2-08-28-informatica.mdi
->>>>>>> 061476ed241f344311b73b5ed73535daedd7f17b
 
 * Disciplina: Informática para Controle e Automação
 * Turma: CA
@@ -31,6 +26,12 @@
 02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
 03 | Julio Campelo de Moura                     | @juliocampelo        |
 03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
-05 | Rafaella Christe Correa                    | @rafachriste         | 
+04 | Rafaella Christe Correa                    | @rafachriste         |  
 05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
-06 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
+06 | Leticia Claudia Dias De Souza              | @leehso              |
+07 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
+10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
+11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
+12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
+13 | Stefane Coligny Lins Silva                 | @stecoligny          |
+14 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
