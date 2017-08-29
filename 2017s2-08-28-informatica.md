@@ -29,12 +29,12 @@
 05 | Rafaella Christe Correa                    | @rafachriste         |  
 06 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
 07 | Leticia Claudia Dias De Souza              | @leehso              |
-09 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
-10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
-11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
-12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
-13 | Stefane Coligny Lins Silva                 | @stecoligny          |
-14 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
-15 | Joao Vitor De Oliveira Silva               | @Mechanichs          |
-16 | Carlos Roberto Cavalcanti De Lima Neto     | @crcln               |
+08 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
+09 | Joao Gabriel Cara Tiago                    | @Joaocara            |
+10 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
+11 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
+12 | Stefane Coligny Lins Silva                 | @stecoligny          |
+13 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
+14 | Joao Vitor De Oliveira Silva               | @Mechanichs          |
+15 | Carlos Roberto Cavalcanti De Lima Neto     | @crcln               |
 
