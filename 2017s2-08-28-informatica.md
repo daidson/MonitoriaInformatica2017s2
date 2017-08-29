@@ -25,11 +25,11 @@
 01 | Mayara Juvencio Da Silva Gomes             | @mayarajuvencio      |
 02 | Gabriel De Andrade Duarte                  | @gabrielduuarte      |
 03 | Julio Campelo de Moura                     | @juliocampelo        |
-03 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
-04 | Rafaella Christe Correa                    | @rafachriste         |  
-05 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
-06 | Leticia Claudia Dias De Souza              | @leehso              |
-07 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
+04 | Lucas Vinnicius Santos De Melo             | @lucasvmelo          |
+05 | Rafaella Christe Correa                    | @rafachriste         |  
+06 | Rodrigo Almeida Malaquias                  | @rodrigoam22         |
+07 | Leticia Claudia Dias De Souza              | @leehso              |
+09 | Bruna Isa Castro Da Silva                  | @Brunaicastro        |
 10 | Joao Gabriel Cara Tiago                    | @Joaocara            |
 11 | Joao Vitor Coelho Ferreira                 | @joaocoellho2412     |
 12 | Gabriel Francisco De Araujo Melo           | @Gabrieljkuchiha     |
@@ -37,3 +37,4 @@
 14 | Davi Pedro Da Silva Sitonio                | @DaviPSS             |
 15 | Joao Vitor De Oliveira Silva               | @Mechanichs          |
 16 | Carlos Roberto Cavalcanti De Lima Neto     | @crcln               |
+
