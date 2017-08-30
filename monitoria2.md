@@ -1,8 +1,8 @@
-## Monitoria
+# Monitoria
 
 Data: 2017-08-29
 
-# Como configurar o Upstream do Spacewar
+## Como configurar o Upstream do Spacewar
 
 1. Confira seus ramos origin e upstream
 
@@ -22,5 +22,26 @@ ex: git remote set-url origin git@github.com:daidson/spacewar.git
 
 $ git remote -v
 
-5. Voce deve ver como upstream: BecoSystems e origin: seu.user.github
+5. Voce deve ver como Upstream: BecoSystems e Origin: seu.user.github
+
+## Como atualizar seu repositorio do Spacewar (fork)
+
+1. Primeiro, certifique-se que seus ramos estao configurados.
+
+Ver item anterior.
+
+2. Capture a imagem dos arquivos que devem ser atualizados.
+
+$ git fetch upstream master
+
+3. Puxe os arquivos para seu local.
+
+$ git pull upstream master
+
+## Em caso de duvidas, entrar em contato com
+
+Monitor: Daidson Fonseca Alves
+E-mail: daidson.alves@gmail.com
+Github: @daidson
+Username Hydra: dfa
 
