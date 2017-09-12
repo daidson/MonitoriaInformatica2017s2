@@ -10,7 +10,7 @@ Data: 2017-08-29
 
 $ git remote add upstream git@github.com:BecoSystems/spacewar.git
 
-2. Confira se seus ramos estao configurados com Upstream: Becosystems e Origin: seu nome de usuario do github
+2. Confira se seus ramos estao configurados com Upstream: BecoSystems e Origin: seu nome de usuario do github
 
 $ git remote -v
 
